@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+gradio==6.29.1
+opencv-python==5.0.0.93
+moviepy==1.0.3
+pillow==12.3.0
+torch==2.14.1+cpu
+torchvision==0.29.1+cpu
+transformers==5.18.0
+rembg[cpu]==2.0.85
+onnxruntime==1.30.0
+mediapipe==1.0.1
+numpy==2.5.2
+scipy==1.18.1
+soundfile==0.14.0
+imageio==2.38.0
+imageio-ffmpeg==0.6.0
+tqdm==4.70.1
+huggingface_hub==1.33.0
+requests==2.34.2
