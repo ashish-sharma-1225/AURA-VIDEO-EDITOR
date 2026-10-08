@@ -67,6 +67,7 @@ outputs/
 output/
 exports/
 *.tmp
+*TEMP_MPY*
 
 # User-specific & IDE files
 .vscode/
